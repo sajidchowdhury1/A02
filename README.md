@@ -32,7 +32,7 @@ Part 2:
 
 1. __Branch__: Allows someone to work with the files from the project without effecting the main project.
 2. __Clone__: Making a copy of a repository.
-3. __Commit__: Saves that are made to files and their is also an ID that is made with each save to keep track of the changes.
+3. __Commit__: Saves that are made to files and there is also an ID that is made with each save to keep track of the changes.
 4. __Fetch__: This will get and download files from branches onto a local computer.
 5. __GIT__: It is a program that keeps track of changes on files.
 6. __GITHUB__: A platform to remotely store files and code without losing data and having version control.
@@ -40,7 +40,7 @@ Part 2:
 8. __Merge__ __Conflict__: A file difference that causes a problem when trying to merge.
 9. __Push__: Updates the files on remote repository of the files that were worked on a local system.
 10. __Pull__: Gets the data from the remote repository and any changes made.
-11. __Remote__: It is a copy of the that is saved on a server.
+11. __Remote__: It is a copy of the repository that is saved on a server.
 12. __Repository__: It is like a folder to hold files and code.
 
 
