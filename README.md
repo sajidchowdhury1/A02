@@ -29,7 +29,7 @@ Webstorm:
 10. Press the clone button and the repository will be available on your computer.
 
 Part 2:
-
+**Branch**
 Work Cited:
 Hendela, Arthur H. Introduction to Github and Webstorm. 2019. Canvas, https://njit.instructure.com/courses/33677/files/5972199?module_item_id=1281701. Accessed 12 February 2024.
 
